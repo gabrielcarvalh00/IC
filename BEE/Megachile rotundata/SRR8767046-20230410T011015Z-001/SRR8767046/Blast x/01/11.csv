@@ -1,0 +1,36 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+Retrovirus-related Pol polyprotein from transposon 412-like Protein [Tribolium castaneum],Tribolium castaneum,59.7,59.7,56%,7e-08,57.45,614,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/EFA04804.1?report=genbank&log$=prottop&blast_rank=1&RID=KW0TW9ZX016"",""EFA04804.1"")"
+Retrovirus-related Pol polyprotein from transposon 412-like Protein [Tribolium castaneum],Tribolium castaneum,51.2,51.2,60%,2e-05,46.00,158,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/EFA05449.1?report=genbank&log$=prottop&blast_rank=2&RID=KW0TW9ZX016"",""EFA05449.1"")"
+uncharacterized protein LOC123684075 [Harmonia axyridis],Harmonia axyridis,52.4,52.4,66%,3e-05,51.79,1116,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_045479182.1?report=genbank&log$=prottop&blast_rank=3&RID=KW0TW9ZX016"",""XP_045479182.1"")"
+hypothetical protein MML48_4g00016016 [Holotrichia oblita],Holotrichia oblita,51.6,51.6,56%,5e-05,54.17,811,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KAI4463190.1?report=genbank&log$=prottop&blast_rank=4&RID=KW0TW9ZX016"",""KAI4463190.1"")"
+hypothetical protein FQR65_LT13789 [Abscondita terminalis],Abscondita terminalis,48.5,48.5,60%,5e-04,46.00,312,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KAF5283665.1?report=genbank&log$=prottop&blast_rank=5&RID=KW0TW9ZX016"",""KAF5283665.1"")"
+hypothetical protein JYU34_015481 [Plutella xylostella],Plutella xylostella,47.4,47.4,52%,0.002,43.18,1109,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KAG7301085.1?report=genbank&log$=prottop&blast_rank=6&RID=KW0TW9ZX016"",""KAG7301085.1"")"
+unnamed protein product [Plutella xylostella],Plutella xylostella,47.0,47.0,52%,0.002,43.18,914,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/CAG9133440.1?report=genbank&log$=prottop&blast_rank=7&RID=KW0TW9ZX016"",""CAG9133440.1"")"
+uncharacterized protein LOC119629166 [Bombyx mori],Bombyx mori,45.8,45.8,48%,0.006,50.00,1180,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_037870101.1?report=genbank&log$=prottop&blast_rank=8&RID=KW0TW9ZX016"",""XP_037870101.1"")"
+LOW QUALITY PROTEIN: uncharacterized protein LOC116928701 [Daphnia magna],Daphnia magna,45.4,45.4,52%,0.007,43.48,642,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_045034348.1?report=genbank&log$=prottop&blast_rank=9&RID=KW0TW9ZX016"",""XP_045034348.1"")"
+Uncharacterized protein APZ42_007770 [Daphnia magna],Daphnia magna,45.4,45.4,51%,0.007,46.81,391,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KZR97391.1?report=genbank&log$=prottop&blast_rank=10&RID=KW0TW9ZX016"",""KZR97391.1"")"
+hypothetical protein SFRURICE_017853 [Spodoptera frugiperda],Spodoptera frugiperda,45.1,45.1,57%,0.009,41.67,355,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KAF9797658.1?report=genbank&log$=prottop&blast_rank=11&RID=KW0TW9ZX016"",""KAF9797658.1"")"
+hypothetical protein SFRURICE_002370 [Spodoptera frugiperda],Spodoptera frugiperda,45.1,45.1,57%,0.010,41.67,689,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KAF9790005.1?report=genbank&log$=prottop&blast_rank=12&RID=KW0TW9ZX016"",""KAF9790005.1"")"
+hypothetical protein SFRUCORN_017697 [Spodoptera frugiperda],Spodoptera frugiperda,45.1,45.1,57%,0.010,41.67,665,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KAG8107530.1?report=genbank&log$=prottop&blast_rank=13&RID=KW0TW9ZX016"",""KAG8107530.1"")"
+Uncharacterized protein APZ42_034024 [Daphnia magna],Daphnia magna,43.1,43.1,52%,0.011,43.48,106,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KZS03292.1?report=genbank&log$=prottop&blast_rank=14&RID=KW0TW9ZX016"",""KZS03292.1"")"
+Uncharacterized protein APZ42_032371 [Daphnia magna],Daphnia magna,44.7,44.7,51%,0.013,42.22,579,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KZS04644.1?report=genbank&log$=prottop&blast_rank=15&RID=KW0TW9ZX016"",""KZS04644.1"")"
+unnamed protein product [Pieris macdunnoughi],Pieris macdunnoughi,44.7,44.7,52%,0.013,45.45,583,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/CAF4948550.1?report=genbank&log$=prottop&blast_rank=16&RID=KW0TW9ZX016"",""CAF4948550.1"")"
+Uncharacterized protein APZ42_000138 [Daphnia magna],Daphnia magna,44.7,44.7,51%,0.013,46.81,246,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KZS02711.1?report=genbank&log$=prottop&blast_rank=17&RID=KW0TW9ZX016"",""KZS02711.1"")"
+Uncharacterized protein APZ42_009027 [Daphnia magna],Daphnia magna,44.3,44.3,51%,0.015,46.67,197,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KZR96565.1?report=genbank&log$=prottop&blast_rank=18&RID=KW0TW9ZX016"",""KZR96565.1"")"
+Uncharacterized protein APZ42_013880 [Daphnia magna],Daphnia magna,44.3,44.3,52%,0.019,41.30,1784,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KZS19606.1?report=genbank&log$=prottop&blast_rank=19&RID=KW0TW9ZX016"",""KZS19606.1"")"
+uncharacterized protein LOC123475555 [Daphnia magna],Daphnia magna,43.9,43.9,51%,0.022,46.67,270,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_045034349.1?report=genbank&log$=prottop&blast_rank=20&RID=KW0TW9ZX016"",""XP_045034349.1"")"
+hypothetical protein SFRUCORN_005747 [Spodoptera frugiperda],Spodoptera frugiperda,43.9,43.9,55%,0.022,41.30,241,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KAG8119400.1?report=genbank&log$=prottop&blast_rank=21&RID=KW0TW9ZX016"",""KAG8119400.1"")"
+Uncharacterized protein APZ42_031046 [Daphnia magna],Daphnia magna,43.9,43.9,51%,0.025,42.22,1090,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KZS05690.1?report=genbank&log$=prottop&blast_rank=22&RID=KW0TW9ZX016"",""KZS05690.1"")"
+"enzymatic polyprotein, putative [Pediculus humanus corporis]",Pediculus humanus corporis,43.9,43.9,52%,0.026,50.00,909,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_002431501.1?report=genbank&log$=prottop&blast_rank=23&RID=KW0TW9ZX016"",""XP_002431501.1"")"
+"enzymatic polyprotein; Endonuclease; Reverse transcriptase, putative [Pediculus humanus corporis]",Pediculus humanus corporis,43.9,43.9,52%,0.028,50.00,805,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_002431503.1?report=genbank&log$=prottop&blast_rank=24&RID=KW0TW9ZX016"",""XP_002431503.1"")"
+unnamed protein product [Euphydryas editha],Euphydryas editha,42.0,42.0,54%,0.029,40.00,97,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/CAH2108997.1?report=genbank&log$=prottop&blast_rank=25&RID=KW0TW9ZX016"",""CAH2108997.1"")"
+unnamed protein product [Euphydryas editha],Euphydryas editha,42.0,42.0,54%,0.030,40.00,97,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/CAH2109286.1?report=genbank&log$=prottop&blast_rank=26&RID=KW0TW9ZX016"",""CAH2109286.1"")"
+Uncharacterized protein APZ42_009428 [Daphnia magna],Daphnia magna,43.1,43.1,52%,0.036,43.48,192,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KZR96308.1?report=genbank&log$=prottop&blast_rank=27&RID=KW0TW9ZX016"",""KZR96308.1"")"
+unnamed protein product [Daphnia galeata],Daphnia galeata,43.5,43.5,51%,0.041,44.44,794,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/CAH0105490.1?report=genbank&log$=prottop&blast_rank=28&RID=KW0TW9ZX016"",""CAH0105490.1"")"
+unnamed protein product [Euphydryas editha],Euphydryas editha,43.1,43.1,56%,0.044,40.43,1665,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/CAH2104022.1?report=genbank&log$=prottop&blast_rank=29&RID=KW0TW9ZX016"",""CAH2104022.1"")"
+
+
+
+		
+
+

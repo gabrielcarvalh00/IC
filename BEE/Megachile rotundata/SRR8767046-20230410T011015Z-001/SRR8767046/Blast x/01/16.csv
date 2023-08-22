@@ -1,0 +1,27 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+Hepatitis C virus non-structural protein NS4b [Streptococcus dysgalactiae subsp. equisimilis],Streptococcus dysgalactiae subsp. equisimilis,54.7,54.7,24%,8e-06,91.67,869,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/SLM22236.1?report=genbank&log$=prottop&blast_rank=1&RID=KW0TW9ZX016"",""SLM22236.1"")"
+TPA: MBL fold metallo-hydrolase [Thermodesulfobacterium commune],Thermodesulfobacterium commune,51.2,51.2,29%,1e-04,75.86,469,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/HBT04807.1?report=genbank&log$=prottop&blast_rank=2&RID=KW0TW9ZX016"",""HBT04807.1"")"
+L-lysine 6-transaminase [Ignavibacteriaceae bacterium],Ignavibacteriaceae bacterium,50.8,50.8,25%,1e-04,80.00,408,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/GJQ32665.1?report=genbank&log$=prottop&blast_rank=3&RID=KW0TW9ZX016"",""GJQ32665.1"")"
+"excinuclease ABC subunit A, uvrA [Pediococcus acidilactici D3]",Pediococcus acidilactici D3,47.8,47.8,20%,0.002,100.00,970,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/EOA08150.1?report=genbank&log$=prottop&blast_rank=4&RID=KW0TW9ZX016"",""EOA08150.1"")"
+TPA: ABC transporter permease [Pseudothermotoga sp.],Pseudothermotoga sp.,46.6,46.6,35%,0.003,66.67,206,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/HBT26896.1?report=genbank&log$=prottop&blast_rank=5&RID=KW0TW9ZX016"",""HBT26896.1"")"
+TonB-dependent receptor [Candidatus Chrysopegis kryptomonas],Candidatus Chrysopegis kryptomonas,47.0,47.0,22%,0.003,95.45,708,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/WP_143713873.1?report=genbank&log$=prottop&blast_rank=6&RID=KW0TW9ZX016"",""WP_143713873.1"")"
+LysR family transcriptional regulator [Salmonella enterica],Salmonella enterica,46.6,46.6,23%,0.005,86.96,284,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/WP_001747429.1?report=genbank&log$=prottop&blast_rank=7&RID=KW0TW9ZX016"",""WP_001747429.1"")"
+hypothetical protein [Enterococcus faecium],Enterococcus faecium,43.9,43.9,26%,0.006,73.08,71,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/WP_073994939.1?report=genbank&log$=prottop&blast_rank=8&RID=KW0TW9ZX016"",""WP_073994939.1"")"
+hypothetical protein [Enterococcus faecium],Enterococcus faecium,43.1,43.1,35%,0.008,60.00,68,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/WP_143164569.1?report=genbank&log$=prottop&blast_rank=9&RID=KW0TW9ZX016"",""WP_143164569.1"")"
+TPA: hypothetical protein [Peptococcaceae bacterium],Peptococcaceae bacterium,43.1,43.1,43%,0.011,46.51,75,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/HBT20547.1?report=genbank&log$=prottop&blast_rank=10&RID=KW0TW9ZX016"",""HBT20547.1"")"
+Beta-galactosidase [Pediococcus acidilactici D3],Pediococcus acidilactici D3,43.9,43.9,20%,0.019,95.00,156,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/EOA08347.1?report=genbank&log$=prottop&blast_rank=11&RID=KW0TW9ZX016"",""EOA08347.1"")"
+hypothetical protein [Enterococcus faecium],Enterococcus faecium,42.4,42.4,22%,0.021,86.36,68,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/WP_178139006.1?report=genbank&log$=prottop&blast_rank=12&RID=KW0TW9ZX016"",""WP_178139006.1"")"
+hypothetical protein [Staphylococcus haemolyticus],Staphylococcus haemolyticus,44.7,44.7,19%,0.022,94.74,489,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/WP_180552673.1?report=genbank&log$=prottop&blast_rank=13&RID=KW0TW9ZX016"",""WP_180552673.1"")"
+hypothetical protein [Enterococcus faecium],Enterococcus faecium,42.0,42.0,20%,0.024,85.00,71,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/WP_143164572.1?report=genbank&log$=prottop&blast_rank=14&RID=KW0TW9ZX016"",""WP_143164572.1"")"
+TPA: hypothetical protein [Thermodesulfobacterium commune],Thermodesulfobacterium commune,43.5,43.5,19%,0.037,100.00,167,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/HBT03769.1?report=genbank&log$=prottop&blast_rank=15&RID=KW0TW9ZX016"",""HBT03769.1"")"
+hypothetical protein [Shewanella decolorationis],Shewanella decolorationis,41.6,41.6,23%,0.039,82.61,68,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/WP_023265508.1?report=genbank&log$=prottop&blast_rank=16&RID=KW0TW9ZX016"",""WP_023265508.1"")"
+integrase core domain-containing protein [Bordetella holmesii],Bordetella holmesii,42.0,42.0,19%,0.040,100.00,82,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/WP_235202117.1?report=genbank&log$=prottop&blast_rank=17&RID=KW0TW9ZX016"",""WP_235202117.1"")"
+hypothetical protein [Staphylococcus haemolyticus],Staphylococcus haemolyticus,41.2,41.2,18%,0.040,100.00,58,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/WP_180553753.1?report=genbank&log$=prottop&blast_rank=18&RID=KW0TW9ZX016"",""WP_180553753.1"")"
+exodeoxyribonuclease III (xth) [Pediococcus acidilactici D3],Pediococcus acidilactici D3,43.5,43.5,26%,0.043,88.46,203,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/EOA08338.1?report=genbank&log$=prottop&blast_rank=19&RID=KW0TW9ZX016"",""EOA08338.1"")"
+hypothetical protein HKUEN02_20250 [Anaerolineaceae bacterium],Anaerolineaceae bacterium,40.8,40.8,18%,0.045,100.00,51,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/GJQ53178.1?report=genbank&log$=prottop&blast_rank=20&RID=KW0TW9ZX016"",""GJQ53178.1"")"
+
+
+
+		
+
+

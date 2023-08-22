@@ -1,0 +1,12 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+TPA: hypothetical protein [Thermodesulfobacterium commune],Thermodesulfobacterium commune,45.8,45.8,56%,0.004,46.30,158,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/HBT03483.1?report=genbank&log$=prottop&blast_rank=1&RID=KW48BP4B016"",""HBT03483.1"")"
+"excinuclease ABC subunit A, uvrA [Pediococcus acidilactici D3]",Pediococcus acidilactici D3,45.4,45.4,19%,0.011,94.74,970,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/EOA08150.1?report=genbank&log$=prottop&blast_rank=2&RID=KW48BP4B016"",""EOA08150.1"")"
+integrase core domain-containing protein [Bordetella holmesii],Bordetella holmesii,42.7,42.7,27%,0.017,76.92,82,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/WP_235202117.1?report=genbank&log$=prottop&blast_rank=3&RID=KW48BP4B016"",""WP_235202117.1"")"
+hypothetical protein PCAR4_980001 [Paraburkholderia caribensis],Paraburkholderia caribensis,42.7,42.7,23%,0.021,86.36,97,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/CAG9272188.1?report=genbank&log$=prottop&blast_rank=4&RID=KW48BP4B016"",""CAG9272188.1"")"
+tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB [Klebsiella pneumoniae],Klebsiella pneumoniae,43.1,43.1,22%,0.024,90.48,135,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/WP_064742793.1?report=genbank&log$=prottop&blast_rank=5&RID=KW48BP4B016"",""WP_064742793.1"")"
+
+
+
+		
+
+

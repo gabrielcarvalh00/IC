@@ -1,0 +1,27 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+"Prune dwarf virus isolate 13TF133 segment RNA1, complete sequence",Prune dwarf virus,67.1,67.1,63%,2e-06,70.90,3345,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/MZ220991.1?report=genbank&log$=nucltop&blast_rank=1&RID=KPUYC5RG013"",""MZ220991.1"")"
+"Prune dwarf virus isolate 13TF118 segment RNA1, complete sequence",Prune dwarf virus,67.1,67.1,63%,2e-06,70.90,3352,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/MZ220989.1?report=genbank&log$=nucltop&blast_rank=2&RID=KPUYC5RG013"",""MZ220989.1"")"
+"Prune dwarf virus isolate 13C277 segment RNA1, complete sequence",Prune dwarf virus,67.1,67.1,63%,2e-06,70.90,3326,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/MZ220986.1?report=genbank&log$=nucltop&blast_rank=3&RID=KPUYC5RG013"",""MZ220986.1"")"
+"Prune dwarf virus isolate 13C258 segment RNA1, complete sequence",Prune dwarf virus,67.1,67.1,63%,2e-06,70.90,3328,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/MZ220982.1?report=genbank&log$=nucltop&blast_rank=4&RID=KPUYC5RG013"",""MZ220982.1"")"
+"Prune dwarf virus isolate 13C257 segment RNA1, complete sequence",Prune dwarf virus,67.1,67.1,63%,2e-06,70.90,3326,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/MZ220981.1?report=genbank&log$=nucltop&blast_rank=5&RID=KPUYC5RG013"",""MZ220981.1"")"
+"Prune dwarf virus isolate 13C202 segment RNA1, complete sequence",Prune dwarf virus,67.1,67.1,63%,2e-06,70.90,3299,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/MZ220973.1?report=genbank&log$=nucltop&blast_rank=6&RID=KPUYC5RG013"",""MZ220973.1"")"
+"Prune dwarf virus isolate DL segment RNA1, complete sequence",Prune dwarf virus,67.1,67.1,63%,2e-06,70.90,3376,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/MT013233.1?report=genbank&log$=nucltop&blast_rank=7&RID=KPUYC5RG013"",""MT013233.1"")"
+"Prune dwarf virus isolate 13TF114 segment RNA1, complete sequence",Prune dwarf virus,66.2,66.2,48%,2e-06,74.26,3347,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/MZ220988.1?report=genbank&log$=nucltop&blast_rank=8&RID=KPUYC5RG013"",""MZ220988.1"")"
+"Prune dwarf virus isolate 19SP058 segment RNA1, complete sequence",Prune dwarf virus,62.6,62.6,63%,2e-05,70.15,3350,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/MZ291947.1?report=genbank&log$=nucltop&blast_rank=9&RID=KPUYC5RG013"",""MZ291947.1"")"
+"Prune dwarf virus isolate 19SP057 segment RNA1, complete sequence",Prune dwarf virus,62.6,62.6,63%,2e-05,70.15,3276,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/MZ291944.1?report=genbank&log$=nucltop&blast_rank=10&RID=KPUYC5RG013"",""MZ291944.1"")"
+"Prune dwarf virus isolate 13TF132 segment RNA1, complete sequence",Prune dwarf virus,62.6,62.6,63%,2e-05,70.15,3344,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/MZ220990.1?report=genbank&log$=nucltop&blast_rank=11&RID=KPUYC5RG013"",""MZ220990.1"")"
+"Prune dwarf virus isolate 13C268 segment RNA1, complete sequence",Prune dwarf virus,62.6,62.6,63%,2e-05,70.15,3327,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/MZ220984.1?report=genbank&log$=nucltop&blast_rank=12&RID=KPUYC5RG013"",""MZ220984.1"")"
+"Prune dwarf virus isolate 13C234 segment RNA1, complete sequence",Prune dwarf virus,62.6,62.6,63%,2e-05,70.15,3327,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/MZ220980.1?report=genbank&log$=nucltop&blast_rank=13&RID=KPUYC5RG013"",""MZ220980.1"")"
+"Prune dwarf virus isolate 13C230 segment RNA1, complete sequence",Prune dwarf virus,62.6,62.6,63%,2e-05,70.15,3324,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/MZ220978.1?report=genbank&log$=nucltop&blast_rank=14&RID=KPUYC5RG013"",""MZ220978.1"")"
+"Prune dwarf virus isolate PCH4R1 segment RNA1, complete sequence",Prune dwarf virus,58.1,58.1,54%,0.001,71.05,3339,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/KY883327.1?report=genbank&log$=nucltop&blast_rank=15&RID=KPUYC5RG013"",""KY883327.1"")"
+"Prune dwarf virus isolate 13C201 segment RNA1, complete sequence",Prune dwarf virus,58.1,58.1,63%,0.001,69.40,3346,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/MZ220972.1?report=genbank&log$=nucltop&blast_rank=16&RID=KPUYC5RG013"",""MZ220972.1"")"
+"Prune dwarf virus isolate Lambert 43 segment RNA1, partial sequence",Prune dwarf virus,56.3,56.3,41%,0.003,73.86,3315,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/KU215408.1?report=genbank&log$=nucltop&blast_rank=17&RID=KPUYC5RG013"",""KU215408.1"")"
+"Prune dwarf virus isolate Rannaja 46 segment RNA1, partial sequence",Prune dwarf virus,56.3,56.3,41%,0.003,73.86,3211,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/KU215402.1?report=genbank&log$=nucltop&blast_rank=18&RID=KPUYC5RG013"",""KU215402.1"")"
+"Prune dwarf virus isolate NS9R1 segment RNA1, complete sequence",Prune dwarf virus,52.7,52.7,40%,0.039,73.26,3320,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/KY883326.1?report=genbank&log$=nucltop&blast_rank=19&RID=KPUYC5RG013"",""KY883326.1"")"
+"Prune dwarf virus isolate 13C208 segment RNA1, complete sequence",Prune dwarf virus,52.7,52.7,40%,0.039,73.26,3329,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/MZ220975.1?report=genbank&log$=nucltop&blast_rank=20&RID=KPUYC5RG013"",""MZ220975.1"")"
+
+
+
+		
+
+

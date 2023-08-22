@@ -1,0 +1,25 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+hypothetical protein AZ14_3013 [Bordetella bronchiseptica 980],Bordetella bronchiseptica 980,44.3,44.3,17%,0.009,95.00,106,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KCV56722.1?report=genbank&log$=prottop&blast_rank=1&RID=KW1MXVPC013"",""KCV56722.1"")"
+hypothetical protein [Corynebacterium provencense],Corynebacterium provencense,42.7,42.7,35%,0.011,57.50,49,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/WP_261796911.1?report=genbank&log$=prottop&blast_rank=2&RID=KW1MXVPC013"",""WP_261796911.1"")"
+TPA: hypothetical protein [Peptococcaceae bacterium],Peptococcaceae bacterium,43.5,43.5,17%,0.011,95.00,75,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/HBT20547.1?report=genbank&log$=prottop&blast_rank=3&RID=KW1MXVPC013"",""HBT20547.1"")"
+"excinuclease ABC subunit A, uvrA [Pediococcus acidilactici D3]",Pediococcus acidilactici D3,45.8,45.8,16%,0.013,100.00,970,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/EOA08150.1?report=genbank&log$=prottop&blast_rank=4&RID=KW1MXVPC013"",""EOA08150.1"")"
+hypothetical protein [Staphylococcus haemolyticus],Staphylococcus haemolyticus,42.7,42.7,34%,0.014,58.97,58,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/WP_180553753.1?report=genbank&log$=prottop&blast_rank=5&RID=KW1MXVPC013"",""WP_180553753.1"")"
+Hepatitis C virus non-structural protein NS4b [Streptococcus dysgalactiae subsp. equisimilis],Streptococcus dysgalactiae subsp. equisimilis,45.4,45.4,19%,0.018,86.36,869,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/SLM22236.1?report=genbank&log$=prottop&blast_rank=6&RID=KW1MXVPC013"",""SLM22236.1"")"
+hypothetical protein [Enterococcus faecium],Enterococcus faecium,42.7,42.7,17%,0.022,90.00,71,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/WP_073994939.1?report=genbank&log$=prottop&blast_rank=7&RID=KW1MXVPC013"",""WP_073994939.1"")"
+hypothetical protein [Enterococcus faecium],Enterococcus faecium,43.1,43.1,18%,0.024,90.48,93,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/WP_218588220.1?report=genbank&log$=prottop&blast_rank=8&RID=KW1MXVPC013"",""WP_218588220.1"")"
+hypothetical protein PCAR4_980001 [Paraburkholderia caribensis],Paraburkholderia caribensis,43.1,43.1,32%,0.026,57.89,97,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/CAG9272188.1?report=genbank&log$=prottop&blast_rank=9&RID=KW1MXVPC013"",""CAG9272188.1"")"
+TPA: hypothetical protein [Thermodesulfobacterium commune],Thermodesulfobacterium commune,43.9,43.9,18%,0.026,85.71,132,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/HAA83858.1?report=genbank&log$=prottop&blast_rank=10&RID=KW1MXVPC013"",""HAA83858.1"")"
+TPA: hypothetical protein [Thermodesulfobacterium commune],Thermodesulfobacterium commune,44.3,44.3,16%,0.029,100.00,167,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/HBT03769.1?report=genbank&log$=prottop&blast_rank=11&RID=KW1MXVPC013"",""HBT03769.1"")"
+integrase core domain-containing protein [Bordetella holmesii],Bordetella holmesii,42.7,42.7,16%,0.029,100.00,82,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/WP_235202117.1?report=genbank&log$=prottop&blast_rank=12&RID=KW1MXVPC013"",""WP_235202117.1"")"
+TPA: ABC transporter permease [Pseudothermotoga sp.],Pseudothermotoga sp.,44.3,44.3,17%,0.029,90.00,206,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/HBT26896.1?report=genbank&log$=prottop&blast_rank=13&RID=KW1MXVPC013"",""HBT26896.1"")"
+TPA: sodium-translocating pyrophosphatase [Pseudothermotoga sp.],Pseudothermotoga sp.,44.7,44.7,16%,0.034,100.00,388,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/HBT25726.1?report=genbank&log$=prottop&blast_rank=14&RID=KW1MXVPC013"",""HBT25726.1"")"
+hypothetical protein HKUEN02_20250 [Anaerolineaceae bacterium],Anaerolineaceae bacterium,41.6,41.6,17%,0.035,90.00,51,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/GJQ53178.1?report=genbank&log$=prottop&blast_rank=15&RID=KW1MXVPC013"",""GJQ53178.1"")"
+hypothetical protein [Burkholderia diffusa],Burkholderia diffusa,42.0,42.0,16%,0.041,100.00,65,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/WP_223962195.1?report=genbank&log$=prottop&blast_rank=16&RID=KW1MXVPC013"",""WP_223962195.1"")"
+hypothetical protein [Enterococcus faecium],Enterococcus faecium,42.0,42.0,18%,0.042,85.71,67,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/WP_143163449.1?report=genbank&log$=prottop&blast_rank=17&RID=KW1MXVPC013"",""WP_143163449.1"")"
+hypothetical protein [Staphylococcus haemolyticus],Staphylococcus haemolyticus,42.0,42.0,18%,0.042,90.48,80,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/WP_180552208.1?report=genbank&log$=prottop&blast_rank=18&RID=KW1MXVPC013"",""WP_180552208.1"")"
+
+
+
+		
+
+

@@ -1,0 +1,14 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+polyprotein [Victoria bee virus 2],Victoria bee virus 2,224,224,99%,5e-65,85.00,2729,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/AWK77887.1?report=genbank&log$=prottop&blast_rank=1&RID=MB2YHUP701N"",""AWK77887.1"")"
+polyprotein [Victoria bee virus 1],Victoria bee virus 1,222,222,99%,3e-64,85.00,2727,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/AWK77886.1?report=genbank&log$=prottop&blast_rank=2&RID=MB2YHUP701N"",""AWK77886.1"")"
+polyprotein [Perth bee virus 3],Perth bee virus 3,211,211,99%,3e-60,79.17,2725,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/AWK77896.1?report=genbank&log$=prottop&blast_rank=3&RID=MB2YHUP701N"",""AWK77896.1"")"
+polyprotein [Picornaviridae sp.],Picornaviridae sp.,182,182,99%,2e-50,69.17,2752,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/UUT43405.1?report=genbank&log$=prottop&blast_rank=4&RID=MB2YHUP701N"",""UUT43405.1"")"
+polyprotein [Soybean thrips picorna-like virus 7],Soybean thrips picorna-like virus 7,173,173,99%,3e-47,65.00,2810,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/QQP18688.1?report=genbank&log$=prottop&blast_rank=5&RID=MB2YHUP701N"",""QQP18688.1"")"
+polyprotein [Acheta domesticus Iflavirus],Acheta domesticus Iflavirus,121,121,99%,8e-29,52.50,2817,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/QRV07363.1?report=genbank&log$=prottop&blast_rank=6&RID=MB2YHUP701N"",""QRV07363.1"")"
+polyprotein [Acheta domesticus Iflavirus],Acheta domesticus Iflavirus,117,117,99%,1e-27,50.00,2821,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/QSV52305.1?report=genbank&log$=prottop&blast_rank=7&RID=MB2YHUP701N"",""QSV52305.1"")"
+
+
+
+		
+
+

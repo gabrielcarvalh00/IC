@@ -1,0 +1,48 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+polyprotein [Turnip ringspot virus],Turnip ringspot virus,107,107,99%,5E-25,100.00,1860,Erro:501
+polyprotein [Turnip ringspot virus],Turnip ringspot virus,106,106,99%,1E-24,98.55,1860,Erro:501
+polyprotein [Turnip ringspot virus],Turnip ringspot virus,102,102,99%,3E-23,95.65,1857,Erro:501
+polyprotein [Turnip ringspot virus],Turnip ringspot virus,101,101,99%,7E-23,94.20,1860,Erro:501
+polyprotein [Turnip ringspot virus],Turnip ringspot virus,99.8,99.8,99%,3E-22,95.65,1860,Erro:501
+polyprotein [Turnip ringspot virus],Turnip ringspot virus,99.0,99.0,99%,6E-22,95.65,1860,Erro:501
+polyprotein [Radish mosaic virus],Radish mosaic virus,78.2,78.2,63%,1E-14,77.27,1853,Erro:501
+polyprotein [Radish mosaic virus],Radish mosaic virus,78.2,78.2,63%,1E-14,77.27,1853,Erro:501
+polyprotein [Radish mosaic virus],Radish mosaic virus,78.2,78.2,63%,1E-14,77.27,1853,Erro:501
+polyprotein [Radish mosaic virus],Radish mosaic virus,78.2,78.2,63%,1E-14,77.27,1853,Erro:501
+polyprotein [Radish mosaic virus],Radish mosaic virus,78.2,78.2,63%,1E-14,77.27,1853,Erro:501
+RNA1-polyprotein [Radish mosaic virus],Radish mosaic virus,78.2,78.2,63%,1E-14,77.27,1853,Erro:501
+polyprotein [Radish mosaic virus],Radish mosaic virus,77.4,77.4,63%,2E-14,75.00,1853,Erro:501
+putative polyprotein 1 [Red clover mottle virus],Red clover mottle virus,53.5,53.5,62%,7E-06,48.84,1719,Erro:501
+polyprotein [Red clover mottle virus],Red clover mottle virus,53.5,53.5,62%,7E-06,48.84,1864,Erro:501
+NTP-binding domain [Red clover mottle virus],Red clover mottle virus,53.1,53.1,62%,8E-06,48.84,600,Erro:501
+RNA dependent RNA polymerase [Arabidopsis latent virus-1],Arabidopsis latent virus-1,52.0,52.0,63%,2E-05,56.82,1850,Erro:501
+polyprotein [Zymoseptoria comovirus A],Zymoseptoria comovirus A,52.0,52.0,63%,2E-05,56.82,1850,Erro:501
+polyprotein [Broad bean true mosaic virus],Broad bean true mosaic virus,50.1,50.1,63%,"0,0001",38.64,1863,Erro:501
+helicase [Broad bean true mosaic virus],Broad bean true mosaic virus,48.5,48.5,63%,"0,0003",38.64,597,Erro:501
+,,47.8,47.8,63%,"0,0007",40.91,521,Erro:501
+polyprotein [Pepper mild mosaic virus],Pepper mild mosaic virus,47.0,47.0,63%,1,40.91,1926,Erro:501
+polyprotein 1 [Cowpea mosaic virus],Cowpea mosaic virus,46.6,46.6,62%,2,37.21,1866,Erro:501
+polyprotein [Cowpea mosaic virus],Cowpea mosaic virus,45.8,45.8,62%,4,34.88,1866,Erro:501
+polyprotein [Cowpea mosaic virus],Cowpea mosaic virus,45.8,45.8,62%,4,34.88,1866,Erro:501
+polyprotein [Cowpea mosaic virus],Cowpea mosaic virus,45.8,45.8,62%,4,34.88,1866,Erro:501
+membrane-binding protein [Cowpea mosaic virus],Cowpea mosaic virus,45.4,45.4,62%,4,34.88,593,Erro:501
+polyprotein [Bean rugose mosaic virus],Bean rugose mosaic virus,44.7,44.7,63%,7,31.82,1856,Erro:501
+polyprotein [Phaseolus vulgaris severe mosaic virus],Phaseolus vulgaris severe mosaic virus,44.3,44.3,57%,11,40.00,1856,Erro:501
+polyprotein [Bean rugose mosaic virus],Bean rugose mosaic virus,43.9,43.9,63%,14,31.82,1856,Erro:501
+polyprotein [Bean rugose mosaic virus],Bean rugose mosaic virus,43.9,43.9,63%,14,31.82,1856,Erro:501
+polyprotein 1 [Bean pod mottle virus],Bean pod mottle virus,43.9,43.9,57%,14,35.00,1851,Erro:501
+polyprotein 1 [Bean pod mottle virus],Bean pod mottle virus,43.9,43.9,57%,15,35.00,1851,Erro:501
+polyprotein [Bean pod mottle virus],Bean pod mottle virus,43.9,43.9,57%,15,35.00,1851,Erro:501
+polyprotein [Bean pod mottle virus],Bean pod mottle virus,43.9,43.9,57%,15,35.00,657,Erro:501
+polyprotein [Bean pod mottle virus],Bean pod mottle virus,43.9,43.9,57%,15,35.00,1851,Erro:501
+polyprotein [Bean pod mottle virus],Bean pod mottle virus,43.9,43.9,57%,15,35.00,1850,Erro:501
+polyprotein 1 [Bean pod mottle virus],Bean pod mottle virus,43.9,43.9,57%,15,35.00,1851,Erro:501
+polyprotein [Bean pod mottle virus],Bean pod mottle virus,43.9,43.9,57%,15,35.00,1851,Erro:501
+putative helicase [Bean pod mottle virus],Bean pod mottle virus,43.9,43.9,57%,16,35.00,598,Erro:501
+polyprotein 1 [Bean pod mottle virus],Bean pod mottle virus,43.9,43.9,57%,16,35.00,1851,Erro:501
+polyprotein 1 [Bean pod mottle virus],Bean pod mottle virus,43.9,43.9,57%,16,35.00,1851,Erro:501
+polyprotein 1 [Bean pod mottle virus],Bean pod mottle virus,43.9,43.9,57%,16,35.00,1851,Erro:501
+polyprotein 1 [Bean pod mottle virus],Bean pod mottle virus,43.9,43.9,57%,16,35.00,1851,Erro:501
+polyprotein [Bean pod mottle virus],Bean pod mottle virus,43.9,43.9,57%,17,35.00,1851,Erro:501
+polyprotein 1 [Bean pod mottle virus],Bean pod mottle virus,43.9,43.9,57%,18,35.00,1851,Erro:501
+polyprotein [Bean pod mottle virus],Bean pod mottle virus,43.5,43.5,57%,19,35.00,1851,Erro:501

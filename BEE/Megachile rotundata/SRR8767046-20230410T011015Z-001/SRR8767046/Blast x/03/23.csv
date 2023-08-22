@@ -1,0 +1,17 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+polyprotein [Xiangshan flavi-like virus 1],Xiangshan flavi-like virus 1,80.9,80.9,61%,5e-15,51.72,4707,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/UDL13940.1?report=genbank&log$=prottop&blast_rank=1&RID=KW48BP4B016"",""UDL13940.1"")"
+TPA: MBL fold metallo-hydrolase [Thermodesulfobacterium commune],Thermodesulfobacterium commune,47.4,47.4,22%,0.002,90.48,469,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/HBT04807.1?report=genbank&log$=prottop&blast_rank=2&RID=KW48BP4B016"",""HBT04807.1"")"
+polyprotein [Xiangshan flavi-like virus 2],Xiangshan flavi-like virus 2,47.4,47.4,75%,0.003,33.77,5622,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/UDL13941.1?report=genbank&log$=prottop&blast_rank=3&RID=KW48BP4B016"",""UDL13941.1"")"
+SMC-Scp complex subunit ScpB [Faecalibacterium prausnitzii],Faecalibacterium prausnitzii,43.9,43.9,27%,0.008,76.92,109,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/WP_158405218.1?report=genbank&log$=prottop&blast_rank=4&RID=KW48BP4B016"",""WP_158405218.1"")"
+GNAT family N-acetyltransferase [Staphylococcus haemolyticus],Staphylococcus haemolyticus,42.7,42.7,24%,0.014,82.61,83,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/WP_180529121.1?report=genbank&log$=prottop&blast_rank=5&RID=KW48BP4B016"",""WP_180529121.1"")"
+hypothetical protein [Enterococcus faecium],Enterococcus faecium,42.7,42.7,38%,0.016,62.16,77,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/WP_218588234.1?report=genbank&log$=prottop&blast_rank=6&RID=KW48BP4B016"",""WP_218588234.1"")"
+TPA: ABC transporter permease [Pseudothermotoga sp.],Pseudothermotoga sp.,44.3,44.3,23%,0.021,81.82,206,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/HBT26896.1?report=genbank&log$=prottop&blast_rank=7&RID=KW48BP4B016"",""HBT26896.1"")"
+TPA: hypothetical protein [Peptococcaceae bacterium],Peptococcaceae bacterium,41.6,41.6,23%,0.035,81.82,75,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/HBT20547.1?report=genbank&log$=prottop&blast_rank=8&RID=KW48BP4B016"",""HBT20547.1"")"
+hypothetical protein HKUEN02_20250 [Anaerolineaceae bacterium],Anaerolineaceae bacterium,40.8,40.8,20%,0.041,94.74,51,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/GJQ53178.1?report=genbank&log$=prottop&blast_rank=9&RID=KW48BP4B016"",""GJQ53178.1"")"
+hypothetical protein [Enterococcus faecium],Enterococcus faecium,41.2,41.2,20%,0.045,94.74,67,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/WP_143163449.1?report=genbank&log$=prottop&blast_rank=10&RID=KW48BP4B016"",""WP_143163449.1"")"
+
+
+
+		
+
+

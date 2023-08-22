@@ -1,0 +1,101 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+polyprotein [Victoria bee virus 2],Victoria bee virus 2,232,232,99%,1E-67,82.26,2729,Erro:501
+polyprotein [Victoria bee virus 1],Victoria bee virus 1,219,219,99%,3E-63,81.45,2727,Erro:501
+polyprotein [Perth bee virus 3],Perth bee virus 3,214,214,98%,3E-61,77.24,2725,Erro:501
+polyprotein [Soybean thrips picorna-like virus 7],Soybean thrips picorna-like virus 7,166,166,98%,1E-44,62.60,2810,Erro:501
+,,,,,,,,
+polyprotein [Acheta domesticus Iflavirus],Acheta domesticus Iflavirus,126,126,97%,1E-30,45.90,2817,Erro:501
+polyprotein [Acheta domesticus Iflavirus],Acheta domesticus Iflavirus,124,124,97%,6E-30,45.08,2821,Erro:501
+,,,,,,,,
+polyprotein [Hangzhou recilia dorsalis iflavirus 1],Hangzhou recilia dorsalis iflavirus 1,56.2,56.2,84%,6E-06,31.43,3230,Erro:501
+RNA-dependent RNA polymerase [Halyomorpha halys ifla-like virus 2],Halyomorpha halys ifla-like virus 2,54.3,54.3,77%,2E-05,30.61,1929,Erro:501
+polyprotein [Nilaparvata lugens honeydew virus 1],Nilaparvata lugens honeydew virus 1,54.3,54.3,40%,3E-05,46.00,3175,Erro:501
+polyprotein [Hangzhou iflavirus 4],Hangzhou iflavirus 4,54.3,54.3,40%,3E-05,46.00,2968,Erro:501
+polyprotein [Nephotettix cincticeps positive-stranded RNA virus-1],Nephotettix cincticeps positive-stranded RNA virus-1,52.8,52.8,84%,9E-05,28.57,3192,Erro:501
+,,,,,,,,
+hypothetical protein [Thrips tabaci associated iflavirus 1],Thrips tabaci associated iflavirus 1,52.8,52.8,77%,"0,0001",32.65,3069,Erro:501
+polyprotein [Rainier virus],Rainier virus,52.0,52.0,45%,"0,0001",40.32,2920,Erro:501
+polyprotein [Thaumetopoea pityocampa iflavirus 1],Thaumetopoea pityocampa iflavirus 1,51.6,51.6,89%,"0,0002",27.03,2957,Erro:501
+hypothetical protein [Frankliniella occidentalis associated iflavirus 1],Frankliniella occidentalis associated iflavirus 1,51.6,51.6,76%,"0,0002",30.53,2969,Erro:501
+RNA-dependent RNA polymerase [Sanya iflavirus 3],Sanya iflavirus 3,51.2,51.2,40%,"0,0003",46.00,2555,Erro:501
+,,,,,,,,
+,,,,,,,,
+hypothetical protein [Wuhan fly virus 4],Wuhan fly virus 4,50.8,50.8,84%,"0,0005",26.42,2914,Erro:501
+polyprotein [Antheraea mylitta iflavirus],Antheraea mylitta iflavirus,50.4,50.4,89%,"0,0005",28.83,2967,Erro:501
+,,,,,,,,
+,,,,,,,,
+polyprotein [Lone star tick dicistrovirus],Lone star tick dicistrovirus,50.1,50.1,40%,"0,0006",39.22,1687,Erro:501
+hypothetical protein [Leuven wasp-associated virus 3],Leuven wasp-associated virus 3,50.1,50.1,40%,"0,0008",39.22,2940,Erro:501
+polyprotein [Guiyang srgiope bruennichi iflavirus 1],Guiyang srgiope bruennichi iflavirus 1,50.1,50.1,88%,"0,0008",27.27,3078,Erro:501
+polyprotein [Rondonia iflavirus 2],Rondonia iflavirus 2,49.7,49.7,91%,1,27.83,2883,Erro:501
+polyprotein [Turkana Iflavirus],Turkana Iflavirus,49.7,49.7,91%,1,28.70,2677,Erro:501
+non-structural [Opsiphanes invirae iflavirus 1],Opsiphanes invirae iflavirus 1,49.7,49.7,40%,1,36.00,1967,Erro:501
+polyprotein [Opsiphanes invirae iflavirus 1],Opsiphanes invirae iflavirus 1,49.7,49.7,40%,1,36.00,3185,Erro:501
+hypothetical protein [Hubei picorna-like virus 29],Hubei picorna-like virus 29,49.7,49.7,40%,1,41.18,3061,Erro:501
+polyprotein [Ectropis obliqua picorna-like virus],Ectropis obliqua picorna-like virus,49.3,49.3,40%,1,39.22,2674,Erro:501
+,,,,,,,,
+polyprotein [Ectropis obliqua picorna-like virus],Ectropis obliqua picorna-like virus,49.3,49.3,40%,1,39.22,2987,Erro:501
+polyprotein [Sanya iflavirus 2],Sanya iflavirus 2,49.3,49.3,40%,1,42.00,2984,Erro:501
+polyprotein [Sanya iflavirus 2],Sanya iflavirus 2,49.3,49.3,40%,1,42.00,2984,Erro:501
+polyprotein [Perina nuda virus],Perina nuda virus,49.3,49.3,40%,1,39.22,2986,Erro:501
+,,,,,,,,
+,,,,,,,,
+polyprotein [Pink bollworm virus 1],Pink bollworm virus 1,49.3,49.3,91%,1,26.96,2948,Erro:501
+,,,,,,,,
+polyprotein [Pink bollworm virus 1],Pink bollworm virus 1,48.9,48.9,91%,2,26.96,2948,Erro:501
+polyprotein [Flumine iflavirus 2],Flumine iflavirus 2,48.9,48.9,40%,2,38.00,1880,Erro:501
+hypothetical protein [Hubei coleoptera virus 1],Hubei coleoptera virus 1,48.9,48.9,62%,2,30.00,2969,Erro:501
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+polyprotein [Antheraea pernyi iflavirus],Antheraea pernyi iflavirus,48.9,48.9,88%,2,27.27,3036,Erro:501
+polyprotein [Iflavirus IvespIV],Iflavirus IvespIV,48.5,48.5,98%,2,26.19,1944,Erro:501
+polyprotein [Apis iflavirus 2],Apis iflavirus 2,48.5,48.5,40%,2,46.00,2892,Erro:501
+,,,,,,,,
+putative ORF1 [Caledonia beadlet anemone dicistro-like virus 2],Caledonia beadlet anemone dicistro-like virus 2,48.5,48.5,40%,2,39.62,1746,Erro:501
+,,,,,,,,
+polyprotein [Chequa iflavirus],Chequa iflavirus,48.5,48.5,40%,2,39.22,2981,Erro:501
+polyprotein [Iflavirus sp.],Iflavirus sp.,48.5,48.5,40%,3,42.00,1403,Erro:501
+polyprotein [Bombyx mori iflavirus],Bombyx mori iflavirus,48.5,48.5,91%,3,26.32,3004,Erro:501
+polyprotein [Diamondback moth iflavirus],Diamondback moth iflavirus,48.5,48.5,40%,3,37.25,3012,Erro:501
+polyprotein [Diamondback moth iflavirus],Diamondback moth iflavirus,48.5,48.5,40%,3,37.25,3012,Erro:501
+polyprotein [Laodelphax striatella honeydew virus 1],Laodelphax striatella honeydew virus 1,48.5,48.5,40%,3,38.00,3125,Erro:501
+polyprotein [Iflavirus IfronI],Iflavirus IfronI,48.1,48.1,77%,3,22.92,2436,Erro:501
+polyprotein [Bombyx mori iflavirus],Bombyx mori iflavirus,48.1,48.1,91%,3,26.32,2840,Erro:501
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+polyprotein [Laodelphax striatellus picorna-like virus 2],Laodelphax striatellus picorna-like virus 2,48.1,48.1,40%,3,38.00,3125,Erro:501
+,,,,,,,,
+,,,,,,,,
+capsid protein [Sanya Iflavirus 6],Sanya Iflavirus 6,48.1,48.1,64%,4,28.40,1746,Erro:501
+nonstructural polyprotein [Hypsignathus monstrosus dicistrovirus],Hypsignathus monstrosus dicistrovirus,47.8,47.8,40%,4,41.51,1683,Erro:501
+TPA: hypothetical protein [Schmimed virus 2],Schmimed virus 2,47.8,47.8,95%,5,27.87,3187,Erro:501
+capsid protein [Sanya Iflavirus 7],Sanya Iflavirus 7,47.8,47.8,64%,5,27.16,1643,Erro:501
+polyprotein [Helicoverpa armigera iflavirus],Helicoverpa armigera iflavirus,47.8,47.8,91%,5,24.56,3021,Erro:501
+polyprotein [Hangzhou recilia dorsalis iflavirus 2],Hangzhou recilia dorsalis iflavirus 2,47.4,47.4,37%,6,46.81,2634,Erro:501
+,,,,,,,,
+polyprotein [Hangzhou recilia dorsalis iflavirus 2],Hangzhou recilia dorsalis iflavirus 2,47.4,47.4,37%,6,46.81,3117,Erro:501
+ORF2 [Rhodnius prolixus virus 1],Rhodnius prolixus virus 1,47.4,47.4,78%,7,26.53,1632,Erro:501
+nonstructural polyprotein [Cripavirus sp.],Cripavirus sp.,47.0,47.0,40%,8,39.62,1807,Erro:501
+RNA helicase [Guiyang dicistrovirus 2],Guiyang dicistrovirus 2,47.0,47.0,40%,8,41.51,1661,Erro:501
+hypothetical protein 1 [Cripavirus sp.],Cripavirus sp.,47.0,47.0,40%,8,39.62,1809,Erro:501
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+polyprotein [Bee iflavirus 1],Bee iflavirus 1,47.0,47.0,75%,10,27.66,1969,Erro:501
+polyprotein [Lymantria dispar iflavirus 1],Lymantria dispar iflavirus 1,47.0,47.0,89%,10,27.03,2984,Erro:501
+putative polyprotein [Lymantria dispar iflavirus 1],Lymantria dispar iflavirus 1,47.0,47.0,89%,10,27.03,2984,Erro:501
+putative ORF1 protein 1 [Millport beadlet anemone dicistro-like virus 1],Millport beadlet anemone dicistro-like virus 1,46.6,46.6,40%,10,41.51,945,Erro:501
+polyprotein [Iflavirus IhIV-2],Iflavirus IhIV-2,46.6,46.6,40%,10,37.25,2039,Erro:501
+polyprotein [Ixodes holocyclus iflavirus],Ixodes holocyclus iflavirus,46.6,46.6,40%,11,37.25,2923,Erro:501
+polyprotein [Ixodes holocyclus iflavirus],Ixodes holocyclus iflavirus,46.6,46.6,40%,11,37.25,2946,Erro:501
+polyprotein [Ixodes holocyclus iflavirus],Ixodes holocyclus iflavirus,46.6,46.6,40%,11,37.25,2946,Erro:501
+polyprotein [Ixodes holocyclus iflavirus],Ixodes holocyclus iflavirus,46.6,46.6,40%,11,37.25,2942,Erro:501
+polyprotein [Ixodes holocyclus iflavirus],Ixodes holocyclus iflavirus,46.6,46.6,40%,11,37.25,2946,Erro:501
+polyprotein [Ixodes holocyclus iflavirus],Ixodes holocyclus iflavirus,46.6,46.6,40%,11,37.25,2946,Erro:501
+polyprotein [Soybean thrips iflavirus 6],Soybean thrips iflavirus 6,46.6,46.6,54%,11,35.29,2909,Erro:501

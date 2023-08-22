@@ -1,0 +1,12 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+polyprotein [Victoria bee virus 2],Victoria bee virus 2,211,211,99%,2e-60,78.57,2729,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/AWK77887.1?report=genbank&log$=prottop&blast_rank=1&RID=MB3MSR0U016"",""AWK77887.1"")"
+polyprotein [Perth bee virus 3],Perth bee virus 3,186,186,99%,2e-51,69.05,2725,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/AWK77896.1?report=genbank&log$=prottop&blast_rank=2&RID=MB3MSR0U016"",""AWK77896.1"")"
+polyprotein [Victoria bee virus 1],Victoria bee virus 1,177,177,99%,2e-48,68.25,2727,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/AWK77886.1?report=genbank&log$=prottop&blast_rank=3&RID=MB3MSR0U016"",""AWK77886.1"")"
+polyprotein [Picornaviridae sp.],Picornaviridae sp.,173,173,99%,5e-47,61.90,2752,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/UUT43405.1?report=genbank&log$=prottop&blast_rank=4&RID=MB3MSR0U016"",""UUT43405.1"")"
+polyprotein [Soybean thrips picorna-like virus 7],Soybean thrips picorna-like virus 7,164,164,98%,9e-44,62.40,2810,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/QQP18688.1?report=genbank&log$=prottop&blast_rank=5&RID=MB3MSR0U016"",""QQP18688.1"")"
+
+
+
+		
+
+

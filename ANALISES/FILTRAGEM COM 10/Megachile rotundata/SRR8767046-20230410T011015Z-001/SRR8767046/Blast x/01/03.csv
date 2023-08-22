@@ -1,0 +1,29 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+polyprotein [Xiangshan flavi-like virus 2],Xiangshan flavi-like virus 2,180,224,97%,8e-49,43.98,5622,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/UDL13941.1?report=genbank&log$=prottop&blast_rank=1&RID=KW0TW9ZX016"",""UDL13941.1"")"
+polyprotein [Xiangshan flavi-like virus 1],Xiangshan flavi-like virus 1,160,160,80%,1e-40,42.19,4707,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/UDL13940.1?report=genbank&log$=prottop&blast_rank=2&RID=KW0TW9ZX016"",""UDL13940.1"")"
+polyprotein [Fushun laodelphax striatellus flavivirus 1],Fushun laodelphax striatellus flavivirus 1,105,105,78%,2e-21,34.83,3492,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/UHM27633.1?report=genbank&log$=prottop&blast_rank=3&RID=KW0TW9ZX016"",""UHM27633.1"")"
+hypothetical protein WN48_10893 [Eufriesea mexicana],Eufriesea mexicana,63.5,127,64%,9e-20,35.19,776,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/OAD53038.1?report=genbank&log$=prottop&blast_rank=4&RID=KW0TW9ZX016"",""OAD53038.1"")"
+polyprotein [Shuangao lacewing virus 2],Shuangao lacewing virus 2,93.2,93.2,75%,2e-17,34.25,5901,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/YP_009179223.1?report=genbank&log$=prottop&blast_rank=5&RID=KW0TW9ZX016"",""YP_009179223.1"")"
+unnamed protein product [Arctia plantaginis],Arctia plantaginis,82.8,82.8,59%,1e-14,37.50,274,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/CAB3222670.1?report=genbank&log$=prottop&blast_rank=6&RID=KW0TW9ZX016"",""CAB3222670.1"")"
+polyprotein [Xingshan cricket virus],Xingshan cricket virus,77.4,77.4,76%,6e-12,30.05,7070,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/YP_009179220.1?report=genbank&log$=prottop&blast_rank=7&RID=KW0TW9ZX016"",""YP_009179220.1"")"
+polyprotein [Gamboa mosquito virus],Gamboa mosquito virus,73.9,73.9,78%,9e-11,28.93,8572,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/YP_009179224.1?report=genbank&log$=prottop&blast_rank=8&RID=KW0TW9ZX016"",""YP_009179224.1"")"
+polyprotein [Macrosiphum euphorbiae virus 1],Macrosiphum euphorbiae virus 1,72.8,72.8,79%,2e-10,27.18,7333,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/YP_009175071.1?report=genbank&log$=prottop&blast_rank=9&RID=KW0TW9ZX016"",""YP_009175071.1"")"
+polyprotein [Barley aphid RNA virus 9],Barley aphid RNA virus 9,71.2,71.2,77%,8e-10,28.36,4950,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/BBV14762.1?report=genbank&log$=prottop&blast_rank=10&RID=KW0TW9ZX016"",""BBV14762.1"")"
+polyprotein [Hangzhou nephotettix cincticeps flavivirus 1],Hangzhou nephotettix cincticeps flavivirus 1,69.7,69.7,80%,3e-09,29.29,7295,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/UHK03280.1?report=genbank&log$=prottop&blast_rank=11&RID=KW0TW9ZX016"",""UHK03280.1"")"
+polyprotein [Placeda virus],Placeda virus,69.3,69.3,66%,3e-09,31.33,2951,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/UOL25805.1?report=genbank&log$=prottop&blast_rank=12&RID=KW0TW9ZX016"",""UOL25805.1"")"
+polyprotein [Barley aphid RNA virus 10],Barley aphid RNA virus 10,69.3,69.3,77%,3e-09,26.90,3516,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/BBV14764.1?report=genbank&log$=prottop&blast_rank=13&RID=KW0TW9ZX016"",""BBV14764.1"")"
+polyprotein [Placeda virus],Placeda virus,68.6,68.6,66%,7e-09,30.72,5650,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/QRW42873.1?report=genbank&log$=prottop&blast_rank=14&RID=KW0TW9ZX016"",""QRW42873.1"")"
+polyprotein [Placeda virus],Placeda virus,68.6,68.6,66%,7e-09,30.72,5650,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/QRW42872.1?report=genbank&log$=prottop&blast_rank=15&RID=KW0TW9ZX016"",""QRW42872.1"")"
+polyprotein [Placeda virus],Placeda virus,68.6,68.6,66%,7e-09,30.72,5650,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/QRW42871.1?report=genbank&log$=prottop&blast_rank=16&RID=KW0TW9ZX016"",""QRW42871.1"")"
+polyprotein [Barley aphid RNA virus 10],Barley aphid RNA virus 10,67.8,67.8,82%,1e-08,28.77,7081,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/BBV14763.1?report=genbank&log$=prottop&blast_rank=17&RID=KW0TW9ZX016"",""BBV14763.1"")"
+polyprotein [Sanxia water strider virus 6],Sanxia water strider virus 6,66.6,66.6,79%,3e-08,25.89,7312,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/YP_009179218.1?report=genbank&log$=prottop&blast_rank=18&RID=KW0TW9ZX016"",""YP_009179218.1"")"
+polyprotein [Sitobion miscanthi flavi-like virus 1],Sitobion miscanthi flavi-like virus 1,66.2,66.2,77%,4e-08,27.00,7462,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/QCI31815.1?report=genbank&log$=prottop&blast_rank=19&RID=KW0TW9ZX016"",""QCI31815.1"")"
+polyprotein [Sitobion miscanthi flavi-like virus 1],Sitobion miscanthi flavi-like virus 1,66.2,66.2,77%,4e-08,27.00,7462,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/BBV14761.1?report=genbank&log$=prottop&blast_rank=20&RID=KW0TW9ZX016"",""BBV14761.1"")"
+polyprotein [Culex tritaeniorhynchus flavi-like virus],Culex tritaeniorhynchus flavi-like virus,65.1,65.1,72%,8e-08,30.77,5750,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/BBQ05092.1?report=genbank&log$=prottop&blast_rank=21&RID=KW0TW9ZX016"",""BBQ05092.1"")"
+polyprotein [Shayang fly virus 4],Shayang fly virus 4,49.3,49.3,72%,0.017,29.35,5175,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/YP_009179225.1?report=genbank&log$=prottop&blast_rank=22&RID=KW0TW9ZX016"",""YP_009179225.1"")"
+
+
+
+		
+
+

@@ -1,0 +1,9 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+"Soybean thrips picorna-like virus 7 strain STN1 polyprotein (STPLV7_gp1) gene, complete cds",Soybean thrips picorna-like virus 7,657,657,100%,0.0,100.00,8960,Erro:501
+"Perth bee virus 3 isolate WA2-20 polyprotein gene, complete cds",Perth bee virus 3,274,274,94%,1E-68,78.10,9235,Erro:501
+"Victoria bee virus 1 isolate VN2-2 polyprotein gene, complete cds",Victoria bee virus 1,245,245,98%,6E-60,75.62,8985,Erro:501
+"Victoria bee virus 2 isolate VN2-6 polyprotein gene, complete cds",Victoria bee virus 2,233,233,94%,4E-56,75.22,8951,Erro:501
+,,,,,,,,
+"Acheta domesticus Iflavirus isolate 72-frass polyprotein gene, complete cds",Acheta domesticus Iflavirus,84.2,84.2,69%,1E-11,68.09,9096,Erro:501
+"Acheta domesticus Iflavirus isolate SE:1050, complete genome",Acheta domesticus Iflavirus,79.7,79.7,69%,5E-10,67.70,9047,Erro:501
+"Tribolium castaneum iflavirus isolate a3 polyprotein gene, partial cds",Tribolium castaneum iflavirus,56.3,56.3,13%,6,85.42,9165,Erro:501
